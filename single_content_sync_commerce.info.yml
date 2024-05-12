@@ -1,0 +1,7 @@
+name: Single Content Sync Commerce
+type: module
+description: 'Submodule for Single Content Sync'
+core_version_requirement: ^9.3 || ^10
+package: Content
+dependencies:
+  - drupal:single_content_sync
